@@ -1,0 +1,230 @@
+div.container{
+  background-color:rgb(88,65,65);
+  height:110px;
+  width:inherit;
+}
+
+ul.nav.nav-pills{
+  float:right;
+  width:inherit;
+  padding-top:20px;
+}
+
+ul.nav.nav-tabs{
+  float:right;
+}
+
+img{
+  padding:3px;
+}
+
+footer{
+  height:200px;
+  background-color:rgb(57,55,55);
+  width:inherit;
+}
+
+div.col-md-2.col-md-offset-5{
+  padding:20px;
+}
+
+img#fb{
+}
+
+p.text-center{
+  color:white;
+  font-size:small;
+}
+
+section{
+  background-color:white;
+  height:300px;
+  width:inherit;
+  margin-bottom:70px;
+}
+
+footer#section{
+  background-color:inherit;
+  align-content:center;
+}
+
+div.row{
+  width:1024px;
+}
+
+img#section{
+  float:right;
+  text-align:left;
+}
+
+p#center{
+  text-align:center;
+}
+
+p#center1{
+  text-align:center;
+}
+
+div#top.row{
+  width:1024px;
+  height:250px;
+}
+
+div#footer.col-md-5.col-md-offset-5{
+  padding-top:50px;
+}
+
+div.carousel-inner{
+  height:300px;
+}
+
+div#middle.container{
+  height:300px;
+}
+
+p.text-left{
+  padding-top:50px;
+}
+
+div#footer.col-md-4.col-md-offset-4{
+  padding-top:50px;
+}
+
+div.item.active{
+  height:300px;
+}
+
+div#carousel-1.carousel.slide{
+  height:300px;
+}
+
+div#footer.col-md-4.col-md-offset-6{
+  padding-top:40px;
+}
+
+div#footer.col-md-3.col-md-offset-6{
+  padding-top:40px;
+}
+
+div.jumbotron{
+  height:350px;
+  background:url(../../assets/img/city_bg.jpg) no-repeat center;
+  background-size:cover;
+}
+
+p{
+  text-align:center;
+}
+
+div.row.tron{
+  height:260px;
+}
+
+h2.text-center{
+  color:white;
+}
+
+p#tron{
+  color:white;
+}
+
+section#form{
+  height:30px;
+  margin:10px;
+  width:380px;
+  margin-bottom:10px;
+}
+
+input.form-control.input-sm{
+  float:right;
+}
+
+input.form-control.input-sm{
+  float:right;
+  width:200px;
+}
+
+div.col-md-8.col-md-offset-3{
+  margin-top:80px;
+}
+
+button.btn.btn-default{
+  float:right;
+  margin:5px;
+}
+
+div.col-md-5.col-md-offset-3{
+  margin-top:70px;
+  height:150px;
+}
+
+.dropbtn {
+
+  background-color: #dff0d8;
+
+  color: black;
+
+  padding: 16px;
+
+  font-size: 14px;
+
+  border: none;
+  margin-left:2px;
+  height: 40px;
+
+}
+
+
+
+.dropdown {
+
+  position: relative;
+
+  display: inline-block;
+  float:right;
+
+}
+
+
+
+.dropdown-content {
+
+  display: none;
+
+  position: absolute;
+
+  background-color: #f1f1f1;
+
+  min-width: 160px;
+
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+  z-index: 1;
+
+}
+
+
+
+.dropdown-content a {
+
+  color: black;
+
+  padding: 12px 16px;
+
+  text-decoration: none;
+
+  display: block;
+
+}
+
+
+
+.dropdown-content a:hover {background-color: #c1e2b3;}
+
+
+
+.dropdown:hover .dropdown-content {display: block;}
+
+
+
+.dropdown:hover .dropbtn {background-color: #c1e2b3;}
